@@ -4,13 +4,7 @@
 
 <p align="left">Welcome to my GitHub.</p>
 
-###
 
-<h2 align="left">helloo this is adnan!</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
