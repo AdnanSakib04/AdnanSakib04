@@ -1,5 +1,5 @@
-<h1 align="center">Hello there, I'm Adnan.</h1>
-<h3 align="center">Welcome to my GitHub.</h3>
+<h1 align="left">Hello there, I'm Adnan.</h1>
+<h3 align="left">Welcome to my GitHub.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
