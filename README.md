@@ -2,7 +2,6 @@
 <h1 align="center">Hello there, I'm Adnan.</h1>
 <h3 align="center">Passionate Developer | MERN Stack Enthusiast | Proficient in HTML, CSS, React, and JavaScript | Explorer in Machine Learning and Deep Learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adnansakib04&label=Profile%20views&color=0e75b6&style=flat" alt="adnansakib04" /> </p>
 
 
 
