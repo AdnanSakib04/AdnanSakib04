@@ -3,7 +3,12 @@
 <h3 align="center">Passionate Developer | MERN Stack Enthusiast | Proficient in HTML, CSS, React, and JavaScript | Explorer in Machine Learning and Deep Learning</h3>
 
 
-
+🚀 **Skills:**
+- Frontend: HTML, CSS, React
+- Backend: Node.js, Express.js
+- Languages: JavaScript, C, C++, Python
+- Database: MongoDB, MySQL
+- Other Tech: Git, GitHub
 
 
 <h3 align="left">Languages and Tools:</h3>
