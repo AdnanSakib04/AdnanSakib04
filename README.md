@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/yS1GScN/image.png)]
+![MasterHead](https://i.ibb.co/yS1GScN/image.png)
 <h1 align="center">Hello there, I'm Adnan.</h1>
 <h3 align="center">Passionate Developer | MERN Stack Enthusiast | Proficient in HTML, CSS, React, and JavaScript | Explorer in Machine Learning and Deep Learning</h3>
 
